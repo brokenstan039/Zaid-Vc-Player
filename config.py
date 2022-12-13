@@ -28,7 +28,7 @@ if str(getenv("STRING_SESSION4")).strip() == "":
 else:
     SESSION4 = str(getenv("STRING_SESSION4"))
 
-if str(getenv("STRING_SESSION5")).strip() == "":
+if str(getenv("STRING_SESSION5")).strip() == "1AZWarzwBuwZTbkHcFLip-nqNtQDhUlBtCaxoZLy4HqjpUlfDB8vDql_Up5AomnSuYy9vMPdbO2rkR81eDsICZiNpmtpbHTJFmnNRQnjJiuSq1hGMo2D7NdhhB1uOckRXpPo1NNv6EpH6CImK0CrdIHmlQhJW3gG9_V5Ovj57MrCvCw-nhGxW-3XinH3yCR8M-kSlwIRbmkeLmV3Qh_3QZfAfW0uvBMG0yiDwYLOxvqH1d-e91dODu5Y02F5m2xp1hL50cvyZgY1GxVsNh4nqdACCNzaxEs4JMA0bSuIfhEbIdu9CssJhDL9MzUuvmZLup6BsUVokR8ZXumYqF6M2LEJ5w4BfmlM=":
     SESSION5 = str(None)
 else:
     SESSION5 = str(getenv("STRING_SESSION5"))
